@@ -64,7 +64,7 @@ function draw() {
   bob5.display();
 
   
-  keyPressed();
+
 }
 
 
